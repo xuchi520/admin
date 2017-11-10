@@ -1,0 +1,66 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "1：革新新兴电商定制型4PL，蜘点大物流纵横全价值链",
+      "url": "http://starcraft.com"
+    },
+    {
+      "id": 2,
+      "title": "2：谋求利益最大化，蜘点综合仓众创平台守护伙伴未来",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "3：蜘点壕掷10亿，现金红包瓜分大趴~等你来！",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "4：蜘点，带都市白领族抢鲜欢乐颂第二季",
+      "url": "http://hearstone.com"
+    }
+  ],
+  "login": {
+    "username": "xuchi520",
+    "userId": 123123
+  },
+  "getPrice": {
+    "amount": 678
+  },
+  "createOrder": {
+    "orderId": "5weq123"
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "数据统计",
+        "version": "高级版",
+        "period": "1年",
+        "buyNum": 2,
+        "date": "2016-10-10",
+        "amount": "500元"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "流量分析",
+        "version": "户外版",
+        "period": "3个月",
+        "buyNum": 1,
+        "date": "2016-5-2",
+        "amount": "2200元"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "广告发布",
+        "version": "商铺版",
+        "period": "3年",
+        "buyNum": 12,
+        "date": "2016-8-3",
+        "amount": "7890元"
+
+      }
+    ]
+  }
+}
